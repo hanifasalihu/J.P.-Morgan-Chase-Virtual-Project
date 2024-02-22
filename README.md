@@ -16,8 +16,10 @@ The goal is to analyze trends in sales volumes over the given period, especially
 This was given on the platform titled "Account Sales Data for Analysis"
 
 ## Tools
-- Microsoft Excel - Data Cleaning, Analysis and Visuailization
-- Microsoft Powerpoint - Storytelling and Presentation 
+- Microsoft Excel - Data Cleaning, Analysis and Visualization
+- Microsoft Powerpoint - Storytelling and Presentation
+
+
 ## Tasks
 1.  Microsoft Excel Shortcuts
 2.  Conditional Formatting
@@ -28,7 +30,7 @@ This was given on the platform titled "Account Sales Data for Analysis"
 ## Task 1
 Learn the full breadth and depth of advanced functions in Excel.This covered common shortcuts like those used for Spreadsheet actions and movement, data selection, data editing and data formatting
 and ended with a quiz to evaluate our learning.
-!image
+
 
 ## Task 2
 Using the conditional formatting tools, the following explorations was requested with the data:
@@ -40,18 +42,34 @@ Using the conditional formatting tools, the following explorations was requested
   - Identify accounts in the top 10% of unit sales for 2021 by highlighting the appropriate 2021 unit sales cells in blue.
 
 
+![Task 2 -ConditonalFrmtting](https://github.com/hanifasalihu/J.P.-Morgan-Chase-Project/assets/157046638/4837ebaf-706c-4a36-aab6-861e1405e315)
 
 
 ## Task 3
 With the same dataset, it  was used to create two macros and associated buttons:
-
   - A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth.
   - A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021.
+
+
+
+![Task 3 - 5YR CAGR Macros](https://github.com/hanifasalihu/J.P.-Morgan-Chase-Project/assets/157046638/cd37cdd3-9b39-4276-a23c-f82a561edd6f)
+
+
+##
+
+
+![Task 3 - Sales Macros](https://github.com/hanifasalihu/J.P.-Morgan-Chase-Project/assets/157046638/ce53dd72-6e21-43a6-af11-8e2d3ad929b3)
+
+
 
 ## Task 4
 Using Pivot Table and Chart:
 By leveraging Excel tools like pivot tables and formatted tables, the sales data was transformed and organized to create an interactive dashboard that visually tracks key metrics. 
 This data visualization enables users to easily analyze and interpret trends in the sales figures. The insights from the dashboard can then inform data-driven business decisions regarding marketing strategies, inventory planning, sales projections and more.
+
+
+![Task 4 - Dashboard](https://github.com/hanifasalihu/J.P.-Morgan-Chase-Project/assets/157046638/c08da3a0-fa78-4b70-bf79-242c3a6b49b7)
+
 
 ## Task 5
 Using Microsoft Powerpoint:
