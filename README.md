@@ -13,7 +13,7 @@ The goal is to analyze trends in sales volumes over the given period, especially
 
 ## Data Sources
 
-This was given on the platform titled "Account Sales Data for Analysis"
+This was given on the platform titled "Account Sales Data for Analysis"[Download here](https://github.com/hanifasalihu/J.P.-Morgan-Chase-Project/blob/main/Account%20Sales%20Data%20for%20Analysis(1).xlsx)
 
 ## Tools
 - Microsoft Excel - Data Cleaning, Analysis and Visualization
